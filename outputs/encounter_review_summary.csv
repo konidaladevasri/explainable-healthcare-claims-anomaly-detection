@@ -1,0 +1,7 @@
+encounter_class,claims,rule_flagged,model_flagged,rule_flagged_percentage,model_flagged_percentage
+ambulatory,5917,665,255,11.24,4.31
+emergency,924,101,8,10.93,0.87
+inpatient,890,32,84,3.6,9.44
+outpatient,6797,815,64,11.99,0.94
+urgentcare,791,6,0,0.76,0.0
+wellness,8237,954,186,11.58,2.26

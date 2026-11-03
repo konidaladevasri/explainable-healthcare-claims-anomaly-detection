@@ -1,0 +1,25 @@
+# Python environment and temporary files
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Editor and temporary Office files
+.vscode/
+~$*
+.DS_Store
+Thumbs.db
+
+# Raw source CSVs
+data/claims.csv
+data/claims_transactions.csv
+data/encounters.csv
+data/patients.csv
+data/payers.csv
+data/payer_transitions.csv

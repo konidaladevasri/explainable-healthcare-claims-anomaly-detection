@@ -1,0 +1,5 @@
+review_category,claim_count,percentage
+Both,271,1.15
+Rules only,2302,9.77
+Model only,326,1.38
+Neither,20657,87.69

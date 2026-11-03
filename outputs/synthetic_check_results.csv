@@ -1,0 +1,5 @@
+test_case,rule_payment_exceeds_charge,rule_service_after_death,rule_high_charge,model_anomaly_score,model_anomaly_flag
+Unchanged baseline,False,False,False,0.5523100201555742,False
+Payment exceeds charge by $500,True,False,False,0.5523100201555742,False
+Service after recorded death,False,True,False,0.5523100201555742,False
+Extreme billing activity,False,False,True,0.805326397649352,True

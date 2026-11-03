@@ -1,0 +1,14 @@
+{
+  "payment_difference_tolerance": 0.01,
+  "charge_quantile": 0.99,
+  "minimum_peer_count": 100,
+  "overall_charge_threshold": 22874.4987999999,
+  "encounter_charge_thresholds": {
+    "ambulatory": 35142.63180000015,
+    "emergency": 49138.709799999924,
+    "inpatient": 23506.463200000006,
+    "outpatient": 15218.457699999892,
+    "urgentcare": 45544.34760000002,
+    "wellness": 1853.9056000000119
+  }
+}

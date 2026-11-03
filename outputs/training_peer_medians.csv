@@ -1,0 +1,7 @@
+encounter_class,total_charge_amount,diagnosis_count,charge_count,payment_count,transfer_count,unique_charge_procedure_count
+ambulatory,77.49,1.0,1.0,2.0,2.0,1.0
+emergency,129.16,1.0,1.0,2.0,2.0,1.0
+inpatient,1303.66,1.0,1.0,1.0,0.0,1.0
+outpatient,77.49,1.0,1.0,1.0,2.0,1.0
+urgentcare,129.16,1.0,1.0,3.0,2.0,1.0
+wellness,129.16,1.0,1.0,1.0,2.0,1.0
